@@ -22,7 +22,7 @@ The dashboard suite moves beyond static reporting, offering a dynamic and intera
 
 The dashboard is structured into several key analytical pages: Overview, Vendor Analysis, In-house Fleet Analysis, and a detailed Drill-Through Driver Detail page. Each page is designed for specific insights and features dynamic filtering and custom tooltips for an enhanced data exploration experience.
 
-### 1. Overview Page: Holistic Performance Snapshot
+### 1. Overview Page: Overall Performance Summary
 
 *This page provides a high-level "control tower" view of the entire transportation operation, enabling quick assessment of key trends and headline figures.*
 
