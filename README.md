@@ -61,19 +61,19 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 *   **Vendor-Specific KPIs:**
     *   **Total Cost (attributed to Vendors):** With % of grand total.
-    *   **Number of Active Vendors.**
-    *   **Overall Avg Cost Per Trip (Vendors).**
-    *   **Average of % Load (Vendors):** Overall load factor for vendor operations, with an indicator such as "Không đạt" (Not Met) if performance is below target. *(Ideally, this overall average is a weighted calculation, not a simple average of individual vendor load factors).*
+    *   **Number of Active Vendors.** With % active vendor of total Vendor
+    *   **Overall Avg Cost Per Trip (Vendors).** With Increase/Decrease XXX Cost Per Trip
+    *   **Average of % Load (Vendors):** Overall load factor for vendor operations, with an indicator such as "Không đạt" if performance is below target. 
 *   **Vendor Contribution & Ranking:**
     *   **Total Cost By Vendor:** Bar chart identifying top vendors by expenditure, including an "Others" category.
     *   **Total Trip By Vendor:** Bar chart ranking vendors by shipment volume, including "Others".
 *   **Comparative Vendor Performance Charts:**
-    *   **Avg Cost Per Trip by Vendor:** Bar chart comparing individual vendor unit costs. *Adding an overall average reference line to this chart would further enhance comparability.*
-    *   **Avg Cost Per CBM by Vendor:** Similar comparison for CBM-based unit costs. *(An overall average reference line would be beneficial here too).*
+    *   **Avg Cost Per Trip by Vendor:** Bar chart comparing individual vendor unit costs. 
+    *   **Avg Cost Per CBM by Vendor:** Similar comparison for CBM-based unit costs.
 *   **Detailed Vendor Performance Table:** A matrix summarizing key metrics for each listed vendor:
     *   `Vendor Name`, `% Total Cost`, `Total Trips`, `Average % Load Factor`, `Average Cost Per Trip`, `Average Cost Per CBM`.
-    *   The "Total" row provides aggregated figures for the listed vendors. *Calculations for averages and percentages in the total row should reflect true overall values.*
-*   **Vendor Cost Trend Over Time:** Line chart visualizing cost trends (e.g., for "Khánh Châu" and "Quang Tường") from 2022-2025, including any projected data.
+    *   The "Total" row provides aggregated figures for the listed vendors. 
+*   **Vendor Cost Trend Over Time:** Line chart visualizing cost trends for 2 top vendors from 2022-2025, including any projected data.
 *   **Interactive Elements:** Slicers for Year, Vendor Name (dropdown), and Province (dropdown); "RESET" button.
 *   **Custom Report Page Tooltip (for Vendor Charts/Table):** On hovering over a vendor, a tooltip (as shown for Vendor "247" in sample screenshots) displays: `Vendor ID/Name`, `Key Performance Indicators (Average of % Load, Cost Per Trip, Cost Per CBM)`, and `Top 3 Provinces served by that vendor by Total Cost`.
     ```markdown
@@ -89,13 +89,13 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 *   **In-house Fleet KPIs:**
     *   **Total Trips (In-house):** With YoY % change.
-    *   **Total Distance:** Total distance covered by the in-house fleet (e.g., "632.72K" - unit like Km would be specified), with YoY % change.
+    *   **Total Distance:** Total distance covered by the in-house fleet (e.g., "XXXK" - unit like Km would be specified), with YoY % change.
     *   **Avg Trip/Driver:** Overall driver trip productivity, with YoY % change.
     *   **Total Day Active (Drivers):** Aggregate of days drivers were operational, with YoY % change.
 *   **Driver & Vehicle Performance Breakdown:**
-    *   **Total Trips by In-house Payload Capacity:** Shows utilization of different vehicle types within the fleet. *(X-axis "Tải trọng" means Payload Capacity).*
+    *   **Total Trips by In-house Payload Capacity:** Shows utilization of different vehicle types within the fleet.
     *   **Top 5 Drivers by Total Distance Covered.**
-    *   **Load Factor By In-house Payload Type.** *(X-axis labels like 0.90, 0.50 represent payload categories and would be defined in a real scenario).*
+    *   **Load Factor By In-house Payload Type.** 
     *   **Top 5 Drivers by Active Days.**
     *   **Driver Performance Scatter Plot:** A key visual plotting `Total Trips` vs. `Average Trip Distance` (the X-axis label "Total Distance" in the screenshot might represent Average Trip Distance for this type of plot) for each driver. Includes average reference lines (horizontal and vertical red lines) to segment drivers into performance quadrants.
 *   **Detailed Driver Performance Table:** A comprehensive table for each driver:
@@ -187,6 +187,5 @@ The primary purpose of this portfolio piece is to demonstrate my proficiency in 
 
 ## Contact
 
-*   **LinkedIn:** https://www.linkedin.com/in/charlestran105/
+*   **LinkedIn:** 'https://www.linkedin.com/in/charlestran105/'
 *   **Email:** `Charlestran.work@gmail.com`
-*   **(Optional) Portfolio Website:** `[Your Portfolio Website URL]`
