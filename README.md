@@ -10,11 +10,11 @@ The dashboard moves beyond simple reporting, offering interactive visualizations
 
 ##  Key Dashboard Objectives & Business Value
 
-*   ** Cost Visibility & Control:** To gain a transparent view of total transportation expenditures, broken down by various dimensions such as time, geographical region, payload capacity, and service provider.
-*   ** Vendor Performance Management:** To rigorously evaluate and benchmark the performance of external transportation vendors based on cost-effectiveness (e.g., overall cost, cost per trip, cost per CBM/KM) and operational efficiency (e.g., load factor).
-*   ** In-house Fleet Optimization:** To analyze the productivity and efficiency of the internal fleet, with a keen focus on driver performance metrics (total trips, distance, active days, load utilization, trips per active day) and vehicle usage patterns.
-*   ** Identification of Inefficiencies & Opportunities:** To proactively identify high-cost areas, underperforming vendors or drivers, and opportunities for improving load consolidation or resource allocation.
-*   ** Strategic Decision Support:** To furnish a robust analytical foundation for strategic initiatives, including vendor negotiations, fleet management adjustments, and overall logistics strategy refinement.
+*   Cost Visibility & Control:** To gain a transparent view of total transportation expenditures, broken down by various dimensions such as time, geographical region, payload capacity, and service provider.
+*   Vendor Performance Management:** To rigorously evaluate and benchmark the performance of external transportation vendors based on cost-effectiveness (e.g., overall cost, cost per trip, cost per CBM/KM) and operational efficiency (e.g., load factor).
+*   In-house Fleet Optimization:** To analyze the productivity and efficiency of the internal fleet, with a keen focus on driver performance metrics (total trips, distance, active days, load utilization, trips per active day) and vehicle usage patterns.
+*   Identification of Inefficiencies & Opportunities:** To proactively identify high-cost areas, underperforming vendors or drivers, and opportunities for improving load consolidation or resource allocation.
+*   Strategic Decision Support:** To furnish a robust analytical foundation for strategic initiatives, including vendor negotiations, fleet management adjustments, and overall logistics strategy refinement.
 
 ---
 
@@ -58,12 +58,12 @@ The dashboard suite is comprised of an Overview page, a Vendor analysis page, an
 ![Vendor Page](![Vendor Page](https://github.com/user-attachments/assets/fa9e8ebd-45d4-4cd5-9240-ad8eef42134d)
 )
 
-*   **Vendor-Specific KPIs:** Total Vendor Cost, Number of Active Vendors, Overall Avg Cost Per Trip, Overall Average Load Factor *(Clarify calculation method for overall averages).*
-*   **Vendor Contribution & Ranking:** Total Cost By Vendor (Top N + "Others"), Total Trips By Vendor (Top N + "Others").
-*   **Comparative Vendor Performance Charts:** Avg Cost Per Trip by Vendor, Avg Cost Per CBM by Vendor *(Strongly recommend adding overall average reference lines to these charts in your actual dashboard and mentioning it here).*
-*   **Detailed Vendor Performance Table:** Key metrics per vendor (`% Total Cost`, `Total Trips`, `Avg % Load`, `Avg Cost Per Trip`, `Avg Cost Per CBM`). *Ensure "Total" row calculations are accurate overall figures.*
-*   **Vendor Cost Trend Analysis:** Line chart for key vendors' cost trends (2022-2025).
-*   **Interactive Elements:** Slicers; Custom Tooltip for vendor details.
+*   Vendor-Specific KPIs:** Total Vendor Cost, Number of Active Vendors, Overall Avg Cost Per Trip, Overall Average Load Factor *(Clarify calculation method for overall averages).*
+*   Vendor Contribution & Ranking:** Total Cost By Vendor (Top N + "Others"), Total Trips By Vendor (Top N + "Others").
+*   Comparative Vendor Performance Charts:** Avg Cost Per Trip by Vendor, Avg Cost Per CBM by Vendor *(Strongly recommend adding overall average reference lines to these charts in your actual dashboard and mentioning it here).*
+*   Detailed Vendor Performance Table:** Key metrics per vendor (`% Total Cost`, `Total Trips`, `Avg % Load`, `Avg Cost Per Trip`, `Avg Cost Per CBM`). *Ensure "Total" row calculations are accurate overall figures.*
+*   Vendor Cost Trend Analysis:** Line chart for key vendors' cost trends (2022-2025).
+*   Interactive Elements:** Slicers; Custom Tooltip for vendor details.
     ```markdown
     ![Vendor Detail Tooltip](![Tool tips Vendor](https://github.com/user-attachments/assets/c72e8b0f-f285-4261-8a50-0b44e3db947b)
 )
