@@ -171,7 +171,6 @@ This Power BI Transportation Analysis dashboard serves as a powerful analytical 
 *   **On-Time Delivery (OTD) Tracking & Analysis:** Incorporating OTD metrics for both vendors and the in-house fleet to measure service levels.
 *   **Predictive Analytics:** Developing forecasting models for future transportation costs, demand fluctuations, or potential service disruptions.
 *   **Advanced Route Optimization Analysis:** Integrating with routing data to identify more efficient delivery paths and schedules.
-*   **Sustainability & Environmental Impact Metrics:** Adding KPIs related to CO2 emissions or fuel efficiency per trip/ton-km.
 
 ---
 
