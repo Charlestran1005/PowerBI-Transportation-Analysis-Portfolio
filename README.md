@@ -187,6 +187,6 @@ The primary purpose of this portfolio piece is to demonstrate my proficiency in 
 
 ## Contact
 
-*   **LinkedIn:** `[[Your LinkedIn Profile URL]](https://www.linkedin.com/in/charlestran105/)`
+*   **LinkedIn:** https://www.linkedin.com/in/charlestran105/
 *   **Email:** `Charlestran.work@gmail.com`
 *   **(Optional) Portfolio Website:** `[Your Portfolio Website URL]`
