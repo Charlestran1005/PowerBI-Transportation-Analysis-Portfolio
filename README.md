@@ -26,7 +26,9 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 *This page provides a high-level "control tower" view of the entire transportation operation, enabling quick assessment of key trends and headline figures.*
 
-![Overview Page] (https://github.com/user-attachments/assets/eb44d5aa-69f3-43eb-b7f3-040c7c16b302) 
+![Overview Page](https://github.com/user-attachments/assets/6be3a411-b0ed-4869-b0e0-2afe3d3f2146)
+
+
 
 *   **Key Performance Indicators (KPIs):**
     *   **Total Cost:** Overall transportation expenditure (e.g., "80.10bnđ") with YoY % change.
@@ -56,7 +58,7 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 *This page focuses on a detailed evaluation and comparison of third-party logistics providers, crucial for effective vendor relationship management.*
 
-![Vendor Page](images/your_vendor_page_anonymized.png)
+![Vendor Page]images/your_vendor_page_anonymized.png
 *(Replace with your actual anonymized screenshot path)*
 
 *   **Vendor-Specific KPIs:**
