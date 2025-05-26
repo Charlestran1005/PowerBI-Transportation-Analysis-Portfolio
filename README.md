@@ -26,6 +26,6 @@ Below is an overview of the main pages within the dashboard and the analyses per
 
 ### 1. Overview Page
 
-*(Embed your edited `overview_page.png` here)*
+*((https://github.com/user-attachments/assets/6ab5483d-5ca4-4771-8b48-68b12fca902e))*
 ```markdown
-![Overview Page](https://github.com/user-attachments/assets/6ab5483d-5ca4-4771-8b48-68b12fca902e)
+![Overview Page]
