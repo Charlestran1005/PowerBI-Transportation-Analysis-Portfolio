@@ -1,4 +1,4 @@
-# Power BI Transportation & Logistics Analysis - Portfolio Showcase 🚀
+# Power BI Transportation & Logistics Analysis - Portfolio Showcase 
 
 ##  Project Introduction
 
@@ -6,8 +6,6 @@ This project showcases a comprehensive Power BI dashboard designed for in-depth 
 
 The dashboard moves beyond simple reporting, offering interactive visualizations and drill-through capabilities to explore the nuances of transportation data, identify key trends, and pinpoint areas for operational improvement.
 
----
-*(Optional: Insert a simple red or teal banner image here if you create one)*
 ---
 
 ##  Key Dashboard Objectives & Business Value
@@ -18,8 +16,6 @@ The dashboard moves beyond simple reporting, offering interactive visualizations
 *   ** Identification of Inefficiencies & Opportunities:** To proactively identify high-cost areas, underperforming vendors or drivers, and opportunities for improving load consolidation or resource allocation.
 *   ** Strategic Decision Support:** To furnish a robust analytical foundation for strategic initiatives, including vendor negotiations, fleet management adjustments, and overall logistics strategy refinement.
 
----
-*(Optional: Insert a simple red or teal banner image here if you create one)*
 ---
 
 ##  Dashboard Structure & Core Features
@@ -106,8 +102,6 @@ The dashboard suite is comprised of an Overview page, a Vendor analysis page, an
 *   **Recent Trips Table:** Details of last 5 trips (`Date`, `Cargo Details`, `Vehicle Details`, `Distance`, `% Load`). *(Clarify any unclear column headers like "Khối hàng").*
 *   **Trip Characteristic Breakdown:** Pie chart for "Average of % Load" (could be "Trip Distribution by % Load Factor Bins").
 
----
-*(Optional: Insert a simple red or teal banner image here if you create one)*
 ---
 
 ##  Technical Skills & Tools Utilized
