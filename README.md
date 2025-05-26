@@ -4,7 +4,7 @@
 
 This project presents a comprehensive Power BI dashboard developed to provide in-depth analysis and actionable insights into transportation and logistics operations. The primary objective was to transform raw operational data into strategic intelligence, enabling stakeholders to effectively monitor costs, evaluate vendor performance, optimize in-house fleet efficiency, and make informed, data-driven decisions to enhance the supply chain.
 
-The dashboard suite moves beyond static reporting, offering a dynamic and interactive experience with multiple interconnected pages, advanced visualizations, custom tooltips, and drill-through capabilities to explore the nuances of transportation data, identify key trends, and pinpoint areas for operational improvement.
+The dashboard suite moves beyond static reporting, offering a dynamic and interactive experience with multiple interconnected pages, advanced visualizations, custom tooltips, and drill-through capabilities to Explore the subtle details of transportation data, identify key trends, and pinpoint areas for operational improvement.
 
 ---
 
