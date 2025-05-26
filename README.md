@@ -28,8 +28,8 @@ The dashboard is organized into several key pages, each designed to address spec
 
 *This page provides a high-level summary of the entire transportation operation.*
 
-![Overview Page](images/overview_page_anonymized.png) 
-*(Ensure this image is fully anonymized)*
+![Overview Page]![Overview Page](https://github.com/user-attachments/assets/213f0d87-b1db-4ffe-9df4-99e5cc2967df)
+
 
 *   **Key Performance Indicators (KPIs):**
     *   **Total Transportation Cost:** Overall expenditure with YoY % change.
