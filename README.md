@@ -26,8 +26,8 @@ The dashboard suite is comprised of an Overview page, a Vendor analysis page, an
 
 *This page provides a high-level summary of the entire transportation operation, allowing for quick assessment of key trends and figures.*
 
-![Overview Page](![Overview Page](https://github.com/user-attachments/assets/179abc74-68ab-4136-9a9f-627ad851f3d6)
-) 
+![Overview Page]![Overview Page](https://github.com/user-attachments/assets/179abc74-68ab-4136-9a9f-627ad851f3d6)
+
 *(Ensure this image path is correct and the image is fully anonymized. The red/teal from this image will be key.)*
 
 *   **Key Performance Indicators (KPIs):**
