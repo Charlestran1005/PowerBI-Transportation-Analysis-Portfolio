@@ -50,16 +50,14 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
     *   A "RESET" button to clear all slicer selections for user convenience.
     *   **Custom Report Page Tooltip (for Map):** On hovering over a province (e.g., "Bình Phước" in the sample), a tooltip displays: `Province Name (Tỉnh)`, `Total Cost`, `% of Grand Total Cost (% Cost)`, and `Total Trips`.
         ```markdown
-        ![Overview Map Tooltip](images/your_overview_map_tooltip.png) 
-        ```
-        *(Replace with your actual anonymized tooltip screenshot path for the map)*
+    ![Tool Tips Province](https://github.com/user-attachments/assets/41bb0acd-0cd8-46a3-bd8e-c2d21619f899)
 
 ### 2. Vendor Analysis Page: Managing Partner Performance
 
 *This page focuses on a detailed evaluation and comparison of third-party logistics providers, crucial for effective vendor relationship management.*
 
-![Vendor Page]images/your_vendor_page_anonymized.png
-*(Replace with your actual anonymized screenshot path)*
+![Vendor Page](https://github.com/user-attachments/assets/51a6cda8-c03e-49db-9b66-dc7b089728f8)
+
 
 *   **Vendor-Specific KPIs:**
     *   **Total Cost (attributed to Vendors):** With % of grand total.
@@ -79,16 +77,15 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 *   **Interactive Elements:** Slicers for Year, Vendor Name (dropdown), and Province (dropdown); "RESET" button.
 *   **Custom Report Page Tooltip (for Vendor Charts/Table):** On hovering over a vendor, a tooltip (as shown for Vendor "247" in sample screenshots) displays: `Vendor ID/Name`, `Key Performance Indicators (Average of % Load, Cost Per Trip, Cost Per CBM)`, and `Top 3 Provinces served by that vendor by Total Cost`.
     ```markdown
-    ![Vendor Detail Tooltip](images/your_vendor_tooltip.png)
-    ```
-    *(Replace with your actual anonymized tooltip screenshot path for vendors)*
+![Tool tips Vendor](https://github.com/user-attachments/assets/7397276a-f582-4069-81d8-09561150487b)
+
 
 ### 3. In-house Fleet Analysis Page: Optimizing Internal Resources
 
 *This page is dedicated to analyzing the efficiency and productivity of the company-owned/operated fleet and its drivers.*
 
-![Inhouse Page](images/your_inhouse_page_anonymized.png)
-*(Replace with your actual anonymized screenshot path)*
+![Inhouse Page](https://github.com/user-attachments/assets/bbb8933e-6ccd-4a6d-92c7-4e7c4e8da2f5)
+
 
 *   **In-house Fleet KPIs:**
     *   **Total Trips (In-house):** With YoY % change.
@@ -107,16 +104,15 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 *   **Drill-through:** Functionality to navigate from a driver's name (in table or scatter plot) to a dedicated "Drill Through Driver Detail" page.
 *   **Custom Report Page Tooltip (for Driver Scatter Plot):** On hovering over a driver, a tooltip displays a mini-profile: `Driver Name`, `Total Trip`, `Total Distance`, `Active Days`, `% Load`, `Daily Trip`.
     ```markdown
-    ![Inhouse Driver Scatter Tooltip](images/your_inhouse_driver_tooltip.png)
-    ```
-    *(Replace with your actual anonymized tooltip screenshot path for the scatter plot)*
+![Tool Tips Driver](https://github.com/user-attachments/assets/6184c55d-70b4-4fe3-83ac-77964d479229)
+
 
 ### 4. Drill Through Driver Detail Page
 
 *This dedicated page provides an in-depth look at the performance and activity trends of a single, selected driver (e.g., "DRIVER A"), accessed via drill-through.*
 
-![Drill Through Driver Detail Page](images/your_driver_detail_page.png)
-*(Replace with your actual anonymized screenshot path)*
+![Drill Through Driver Detail](https://github.com/user-attachments/assets/53146f0b-d59f-49bd-84ab-13e28a6505da)
+
 
 *   **Selected Driver's KPIs:** Prominently displays the selected `Driver Name` along with their specific `Total Trips`, `Total Distance`, `Active Days`, `Average % Load`, and `Average Trips per Driver`.
 *   **Monthly Performance Trends for Selected Driver:**
@@ -137,10 +133,6 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
     *   Designed and implemented a relational data model, likely a Star Schema, with a central Fact table (e.g., `Fact_Trips`) and multiple Dimension tables (`Dim_Date`, `Dim_Vendors`, `Dim_Drivers`, `Dim_Provinces`, `Dim_Payloads`).
     *   Established and managed table relationships, optimizing for query performance and data integrity.
     *   Implemented a dedicated Date dimension table for advanced time intelligence calculations.
-    *(If you have an anonymized data model screenshot, you can add it here, ensuring no sensitive table/column names are visible if they are too specific to the company)*
-    ```markdown
-    ![Data Model Diagram (Anonymized)](images/your_anonymized_data_model.png) 
-    ```
 *   **DAX (Data Analysis Expressions):**
     *   Authored a wide array of DAX measures for dynamic calculations: YoY changes, averages (per trip, per CBM, per KM, per driver, per active day), percentages (% Load Factor, % of Total), Top N rankings, and complex conditional aggregations.
     *   Leveraged key DAX functions such as `CALCULATE`, `SUMX`, `AVERAGEX`, `DIVIDE`, `FILTER`, `ALL`, `ALLEXCEPT`, `VALUES`, `DISTINCTCOUNT`, `SAMEPERIODLASTYEAR`, `IF`, `SWITCH`, `TOPN`, `RANKX`.
@@ -195,6 +187,6 @@ The primary purpose of this portfolio piece is to demonstrate my proficiency in 
 
 ## Contact
 
-*   **LinkedIn:** `[Your LinkedIn Profile URL]`
-*   **Email:** `[Your Email Address]`
+*   **LinkedIn:** `[[Your LinkedIn Profile URL]](https://www.linkedin.com/in/charlestran105/)`
+*   **Email:** `Charlestran.work@gmail.com`
 *   **(Optional) Portfolio Website:** `[Your Portfolio Website URL]`
