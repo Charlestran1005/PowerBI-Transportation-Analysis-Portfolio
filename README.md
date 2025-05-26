@@ -29,3 +29,29 @@ Below is an overview of the main pages within the dashboard and the analyses per
 *((https://github.com/user-attachments/assets/6ab5483d-5ca4-4771-8b48-68b12fca902e))*
 ```markdown
 ![Overview Page]
+Key KPIs: Displays critical aggregated metrics such as Total Cost, Total Trips, Average Cost/CBM, Average Cost/KM, along with Year-over-Year (YoY) percentage changes.
+Cost Analysis:
+Cost by Payload Capacity.
+Total Cost by Province (utilizing an intuitive map visual and bar charts).
+Operational Analysis:
+Total Trips by Province.
+Average Load Factor by Province.
+Trend Analysis:
+Trend of Average Load Factor (%).
+Trend of Total Cost.
+Interactive Features: Slicers for Year, Province, Payload Type; Reset Filter button; Custom tooltips providing detailed information on hover.
+2. Vendor Analysis Page
+![Vendor Page](https://github.com/user-attachments/assets/f53081e4-0640-41be-9aa8-ee88b486eae7)
+![Vendor Page](images/vendor_analysis.png)
+Use code with caution.
+Markdown
+Vendor KPIs: Total Vendor Cost, Number of Active Vendors, Overall Average Cost Per Trip, Overall Average Load Factor.
+Cost & Activity Distribution:
+Total Cost by Vendor (Top N + Others).
+Total Trips by Vendor (Top N + Others).
+Vendor Performance Comparison:
+Average Cost Per Trip by Vendor (benchmarked against the overall average).
+Average Cost Per CBM by Vendor (benchmarked against the overall average).
+Detailed Vendor Table: Lists key metrics for each vendor (% Total Cost, Total Trips, % Load, Cost Per Trip, Cost Per CBM).
+Vendor Cost Trend Over Time: Shows cost trends for key vendors.
+Interactive Features: Slicers for Year, Vendor, Province; Custom tooltips for detailed vendor insights.
