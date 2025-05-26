@@ -24,7 +24,7 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 ### 1. Overview Page: Overall Performance Summary
 
-*This page provides a high-level "control tower" view of the entire transportation operation, enabling quick assessment of key trends and headline figures.*
+*This page gives you a clear overview of the whole transportation process, helping you quickly spot key trends and important numbers.*
 
 ![Overview Page](https://github.com/user-attachments/assets/6be3a411-b0ed-4869-b0e0-2afe3d3f2146)
 
