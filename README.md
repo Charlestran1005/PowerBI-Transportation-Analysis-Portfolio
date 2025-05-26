@@ -31,14 +31,14 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 
 *   **Key Performance Indicators (KPIs):**
-    *   **Total Cost:** Overall transportation expenditure (e.g., "80.10bnđ") with YoY % change.
-    *   **Total Trips:** Total volume of shipments (e.g., "46K") with YoY % change.
-    *   **Average Cost per CBM:** Unit cost efficiency based on volume (e.g., "153K đ") with YoY % change.
-    *   **Average Cost per KM:** Unit cost efficiency based on distance (e.g., "12.49K") with YoY % change.
+    *   **Total Cost:** Overall transportation expenditure (e.g., "xxxbnđ") with YoY % change.
+    *   **Total Trips:** Total volume of shipments (e.g., "XXK") with YoY % change.
+    *   **Average Cost per CBM:** Unit cost efficiency based on volume (e.g., "XXK đ") with YoY % change.
+    *   **Average Cost per KM:** Unit cost efficiency based on distance (e.g., "XXK") with YoY % change.
 *   **Cost & Operational Breakdowns:**
-    *   **Cost by Payload:** Visualizes cost distribution across different vehicle payload capacities (X-axis shows payload categories like 2, 5, 15, 8, 10 – *units like 'Tons' would be clarified in a real scenario*).
+    *   **Cost by Payload:** Visualizes cost distribution across different vehicle payload capacities (X-axis shows payload categories like 2,3,5,6.5,8,10,15 and more – *units like 'Tons' would be clarified in a real scenario*).
     *   **Total Trips by Province:** Highlights key regions by shipment volume. The chart effectively handles and displays data for entries where province information might be "(Blank)".
-    *   **Cost/CBM by Province:** Compares unit cost efficiency (e.g., "1003K") across various provinces.
+    *   **Cost/CBM by Province:** Compares unit cost efficiency (e.g., "XXK") across various provinces.
     *   **Load Factor by Province (%):** Assesses average vehicle capacity utilization per province.
 *   **Trend Analysis (Time Series):**
     *   **Average Load Factor (%):** Tracks the historical trend of overall load efficiency from 2020-2025.
