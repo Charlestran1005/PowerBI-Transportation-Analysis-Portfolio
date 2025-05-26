@@ -26,8 +26,7 @@ The dashboard is structured into several key analytical pages: Overview, Vendor 
 
 *This page provides a high-level "control tower" view of the entire transportation operation, enabling quick assessment of key trends and headline figures.*
 
-![Overview Page](images/your_overview_image.png) 
-*(Ensure this image path is correct and the image is fully anonymized)*
+![Overview Page] (https://github.com/user-attachments/assets/eb44d5aa-69f3-43eb-b7f3-040c7c16b302) 
 
 *   **Key Performance Indicators (KPIs):**
     *   **Total Cost:** Overall transportation expenditure (e.g., "80.10bnđ") with YoY % change.
